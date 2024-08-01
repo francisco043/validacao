@@ -30,7 +30,7 @@
 
 * `` Estiliza a pagina``
 
-#  🛠 OQUE O PROJETO CPF JS EXECUTA 🛠
+#  🛠 OQUE O PROJETO HTML JS EXECUTA 🛠
 
 * ``Ele executa uma comparação, (exemplo) document.forms[0].email.value == 0 que verifica se o campo está vazio, havendo uma interacao com o html que envia uma mensagem para verificar o formulário que é enviado, garantindo que o campo de email não esteja vazio ou faltando alguma informaçao. ``
 
